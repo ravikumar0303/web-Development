@@ -31,7 +31,7 @@ for(i=1;i<=50;i++)
      
 }*/
 
-const a=8525
+/const a=8525
 
 if(a%5==0)
 {
@@ -40,3 +40,6 @@ if(a%5==0)
 else{
     console.log(a,"is not divisible by 5")
 }
+
+
+

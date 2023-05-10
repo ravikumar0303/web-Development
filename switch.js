@@ -1,7 +1,7 @@
 const x = 2
  const y=50
  const z=5
-  switch (x) {
+switch (x) {
   case 1:  
           let sum=y+z            
     console.log("sum=",sum)
